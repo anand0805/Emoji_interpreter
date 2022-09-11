@@ -6,7 +6,12 @@ const emojiDictionary = {
   "🤬": "what the f..",
   "🤡": "Snowman",
   "🥰": "Happy",
-  "😌": "sad"
+  "😌": "sad",
+  "🥱": "sleepy",
+  "🍸": "drink",
+  "🍊": "fruit",
+  "⚽️": "soccer",
+  "🚑": "emergency"
 }
 
 
